@@ -14,7 +14,7 @@ PUNCTUATION = '.,;!?#&-\'_+=/\\"@$^%()[]{}~ '
 
 
 def main():
-	word_d = {}  # dictionary: you -> 100, the -> 100, ...jerry ->1
+	word_d = {}  # dictionary: you -> 100, the -> 100, ...abcd ->1
 	all_tokens = []
 
 	# Read all files and add them to all_tokens
