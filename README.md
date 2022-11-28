@@ -7,3 +7,4 @@ Updates from last time:
 2) Punctuations are removed using `string.punctuation`.
 3) Regular expressions were added to extract the actual quotes.
 4) The codes for `assign_gender` were revised, where I also left a question.
+5) I'm still working on how to use `vaderSentiment`.
