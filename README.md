@@ -1,6 +1,6 @@
 # final-project
 
-This project counts word occurrences in my field notes. The field notes were taken at NYC Mandarin/ English meetups, where Mandarin learners come to practice with native speakers. The goals of this project are 1) count overall word occurrences, 2) count word occurrences used by males and females, and 3) label positive and negative words to conduct a sentiment analysis (stretch goal).
+This project counts word occurrences in my field notes. The field notes were taken at NYC Mandarin/ English meetups, where Mandarin learners come to practice with native speakers. The goals of this project are 1) to explore gender differences in second language use, including word frequency, code-switching, ratio of target language use, and sentiment, and 2) to build a computational model using these hypotheses as features to predict the gender of the speaker.
 
 Updates:
 
