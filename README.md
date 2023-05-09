@@ -4,6 +4,10 @@ This project counts word occurrences in my field notes. The field notes were tak
 
 Updates:
 
+5/9/2023
+1) Used key words, code-switching, target language use, and polarity scores as features to predict the gender of a speaker.
+2) Used `DictVectorizor`, `CountVectorizor` and `TF-IDF` to extract features and compare the restuls with different models.
+
 12/15/2022
 1) Used `match.group` to extract gender and direct quote
 2) Removed punctuation before using `.extend` to add tokens to the list
