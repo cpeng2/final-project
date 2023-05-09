@@ -90,8 +90,7 @@ def target_lang_use(sentence: str):
 
 
 def main():
-    """This function takes a corpus and prints:
-    (a) word counts and (b) word counts by gender.
+    """This program extracts features from sentences to buid classifiers that predict the gender of a speaker.
     """
     male_names = frozenset(['N', 'CG', 'Nick', 'Me', 'R', 'Rick', 'Mark', 'Joe', 'Me', 'Ben', 'Ted',
                             'Ronny', 'Gary', 'Bob', 'B', 'Brian', 'Wenchao', 'David', 'Scotty', 'Hal',
