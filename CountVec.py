@@ -10,13 +10,12 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # Import sklearn
 from sklearn.dummy import DummyClassifier
-from sklearn.feature_extraction import DictVectorizer
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.metrics import accuracy_score
 from sklearn.naive_bayes import BernoulliNB
-from sklearn.ensemble import RandomForestClassifier, VotingClassifier
+from sklearn.ensemble import VotingClassifier
 
 
 def extract_features(sentence: str):
@@ -89,6 +88,15 @@ def target_lang_use(sentence: str):
     return zh / (zh + en)
 
 
+def print_misclassified(model: str, y_test: List, y_pred: List, sentences: List):
+    """THis function print misclassified sentences to a csv file."""
+    with open("misclassified.csv", "a") as sink:
+        misclassified_indices = [i for i in range(len(y_test)) if y_test[i] != y_pred[i]]
+        print(f"{model}Misclassified sentences:", file=sink)
+        for i in misclassified_indices:
+            print(y_test[i], y_pred[i], sentences[i], file=sink)
+
+
 def main():
     """This function takes a corpus and prints:
     (a) word counts and (b) word counts by gender.
@@ -123,7 +131,7 @@ def main():
     # Extract features: CountVectorizer
     vectorizer = CountVectorizer()
     D = vectorizer.fit_transform(sentences)
-
+    print(D.size)
     # Split the data (train 0.8, test 0.1, dev 0.1)
     seed = 11
     D_train, D_other, y_train, y_other = train_test_split(
@@ -140,6 +148,7 @@ def main():
     y_pred = clf0.predict(D_test)
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Testing baseline accuracy:\t{accuracy:.4f}")
+    print_misclassified("dummy classifier", y_test, y_pred, sentences)
 
     # Train the logistic regression classifier
     clf1 = LogisticRegression(C=5)
@@ -156,6 +165,7 @@ def main():
     y_pred = clf1.predict(D_test)
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Testing logistic regression accuracy:\t{accuracy:.4f}")
+    print_misclassified("Logistic regression", y_test, y_pred, sentences)
 
     # Train the naive Bayes classifier
     clf2 = BernoulliNB(alpha=1)
@@ -164,6 +174,7 @@ def main():
     y_pred = clf2.predict(D_test)
     accuracy = accuracy_score(y_test, y_pred)
     print(f"Testing Naive Bayes accuracy:\t{accuracy:.4f}")
+    print_misclassified("Naive Bayes", y_test, y_pred, sentences)
 
     # voting classifier
     eclf = VotingClassifier(estimators=[
@@ -171,7 +182,7 @@ def main():
         ('Logistic regression classifier', clf1),
         ('Naive Bayes classifier', clf2)],
         voting="hard")
-    eclf = eclf.fit(D, labels)
+    eclf = eclf.fit(D_train, y_train)
     for classifier, label in zip([clf0, clf1, clf2, eclf],
                                 ["Dummy", "Logistic Regression", "Naive Bayes", "Ensamble"]):
         scores = cross_val_score(classifier, D_test, y_test, scoring="accuracy", cv=10)
