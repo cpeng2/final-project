@@ -6,17 +6,17 @@ from typing import Dict, List
 
 import jieba
 import nltk
+import numpy
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 # Import sklearn
 from sklearn.dummy import DummyClassifier
 from sklearn.feature_extraction import DictVectorizer
-from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV, PredefinedSplit
 from sklearn.metrics import accuracy_score
 from sklearn.naive_bayes import BernoulliNB
-from sklearn.ensemble import RandomForestClassifier, VotingClassifier
+from sklearn.ensemble import VotingClassifier
 
 
 def extract_features(sentence: str):
@@ -126,7 +126,7 @@ def main():
 
     # Prepare the data
     sentences = male_sent + female_sent  # List of sentences
-    print(len(sentences))
+    print(f"There are {len(sentences)} sentences in total.")
     # List of corresponding labels (male or female)
     labels = ["male" for _ in male_sent] + ["female" for _ in female_sent]
 
@@ -134,7 +134,7 @@ def main():
     feature_dicts = [extract_features(sentence) for sentence in sentences]
     vectorizer = DictVectorizer()
     D = vectorizer.fit_transform(feature_dicts)
-    print(D.size)
+    print(f"Total data size: {D.size}")
     # Split the data (train 0.8, test 0.1, dev 0.1)
     seed = 11
     D_train, D_other, y_train, y_other = train_test_split(
@@ -154,16 +154,15 @@ def main():
     print_misclassified("Dummy classifier", y_test, y_pred, sentences)
 
     # Train the logistic regression classifier
-    clf1 = LogisticRegression(C=10)
+    clf1 = LogisticRegression(C=2.)
     clf1.fit(D_train, y_train)
     # Tuning
-    for C in [.1, .2, .5, 1., 2., 5., 10., 20., 50.]:
-        logreg = LogisticRegression(
-            solver="liblinear", penalty="l1", C=C
-        )
-        logreg.fit(D_train, y_train)
-        dev_acc = accuracy_score(y_dev, logreg.predict(D_dev))
-        print(f"C: {C}\tdevelopment LR accuracy:\t{dev_acc:.4f}")
+    grid = {"C": numpy.array([.1, .2, .5, 1., 2., 5., 10., 20., 50.]),
+            "l1_ratio": numpy.array([.1, .5, .9])}
+    model = LogisticRegression(solver="saga", penalty="elasticnet")
+    search = GridSearchCV(model, grid, n_jobs=-1)
+    search.fit(D_dev, y_dev)
+    print(search.best_params_)
     # Evaluate
     y_pred = clf1.predict(D_test)
     acc1 = accuracy_score(y_test, y_pred)

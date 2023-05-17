@@ -7,12 +7,13 @@ from typing import Dict, List
 import jieba
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import numpy
 
 # Import sklearn
 from sklearn.dummy import DummyClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV
 from sklearn.metrics import accuracy_score
 from sklearn.naive_bayes import BernoulliNB
 from sklearn.ensemble import VotingClassifier
@@ -155,13 +156,12 @@ def main():
     clf1 = LogisticRegression(C=5)
     clf1.fit(D_train, y_train)
     # Tuning
-    for C in [.1, .2, .5, 1., 2., 5., 10., 20., 50.]:
-        logreg = LogisticRegression(
-            solver="liblinear", penalty="l1", C=C
-        )
-        logreg.fit(D_train, y_train)
-        dev_acc = accuracy_score(y_dev, logreg.predict(D_dev))
-        print(f"C: {C}\tdevelopment LR accuracy:\t{dev_acc:.4f}")
+    model = LogisticRegression(solver="saga", penalty="elasticnet")
+    grid = {"C": numpy.array([.1, .2, .5, 1., 2., 5., 10., 20., 50.]),
+            "l1_ratio": numpy.array([.1, .5, .9])}
+    search = GridSearchCV(model, grid, n_jobs=-1)
+    search.fit(D_dev, y_dev)
+    print(search.best_params_)
     # Evaluate
     y_pred = clf1.predict(D_test)
     accuracy = accuracy_score(y_test, y_pred)

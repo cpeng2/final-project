@@ -1,0 +1,1819 @@
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+male female I should take your class
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+male female So when we make a foreigner best friend ...
+male female You grew up in California, oh… So then, why are you in New York?
+male female you heard it was interesting…, oh… as some seconds tick by you can tell Joe is looking for a topic to pivot to, to keep the conversation going. So do you have a job? While such direct questioning might seem rude or out of place in normal conversation, in this informal setting it seems a common question to ask, and the more direct the easier for people who are new to the language.
+male female Oohh. I am… I am.. Now Joe seems to be the one searching for words. In the end he switches to english, perhaps not having an easy way to explain. So I teach english and chinese in the city unicersity of new york. I am a chinese professor. And I am a PhD of linguistics.
+female male PhD, yes.
+male female yeah I grew up there.
+male female I’m from Contra Costa County
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+male female Williamsburg
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+male female chinese people love american schools
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+male female You’re saying in Chinatown there are a lot?
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+male female yeah I grew up there.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+female male oh, “quay-luh”
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+male female chinese people love american schools
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+male female I should take your class
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+male female So when we make a foreigner best friend ...
+male female You grew up in California, oh… So then, why are you in New York?
+male female you heard it was interesting…, oh… as some seconds tick by you can tell Joe is looking for a topic to pivot to, to keep the conversation going. So do you have a job? While such direct questioning might seem rude or out of place in normal conversation, in this informal setting it seems a common question to ask, and the more direct the easier for people who are new to the language.
+male female Oohh. I am… I am.. Now Joe seems to be the one searching for words. In the end he switches to english, perhaps not having an easy way to explain. So I teach english and chinese in the city unicersity of new york. I am a chinese professor. And I am a PhD of linguistics.
+female male PhD, yes.
+male female yeah I grew up there.
+male female I’m from Contra Costa County
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+male female Yeah! It’s across the street from there.
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+male female Yeah I agree, I use the flash-card function on it, although I guess that lost of other apps have that function to.
+male female Williamsburg
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+male female “quay-luh”
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+male female chinese people love american schools
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Dummy classifierMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Logistic regressionMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male Uh… this is my… third year
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
+Naive BayesMisclassified sentences:
+female male China Eastern Normal University (hua dong shi da)
+female male but I thought it was not bad
+female male really?! 
+female male XaiDing University, just one year.
+female male You all in china, where? (in this case I am sure Mark is speaking with broken chinese, trying to ask where the others are from)
+female male PhD, yes.
+female male Oh wait, [laughing] I’m also from contra costa county. My parents moved to Berkeley and then later to Richmond when I was in like 7th grade …
+male female Oh yeah…
+female male Yeah, I grew up also in the Bay Area, in Cupertino, you know it?
+female male Public transportation in California is rough
+female male I was born in Beijing, then (at) one year old, came to US. uhhh. Then… lived in [somewhere] 2-3 years, uh, but, uh… apart from my mom and dad I didn’t have many opportunities to speak Chinese, so I came here.
+female male Exactly.
+male female Well, I think there are just a lot of Fujianese people in New York in general. So like in Flushing and stuff… yeah. Yeah so… it’s kinda an um...
+female male Yeah I notice when I go to Chinatown I don’t really understand a lot of what they are saying.
+female male 3 hours. My other friends didn’t have money. (switching to english) they gambled and lost a lot of money - FAST
+female male how do you say lost? “Milule” is saying you got lost. Giving the chinese and gambling there’s probably a word for that.
+female male oh, “quay-luh”
+female male no...
+female male but that was before the ultra-wealthy moved in. now millionaires move in, buy a house and leave it empty. That’s what i've heard
