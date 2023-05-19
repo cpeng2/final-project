@@ -153,16 +153,27 @@ def main():
     print(f"Testing baseline accuracy:\t{acc0:.4f}")
     print_misclassified("Dummy classifier", y_test, y_pred, sentences)
 
-    # Train the logistic regression classifier
-    clf1 = LogisticRegression(C=2.)
-    clf1.fit(D_train, y_train)
-    # Tuning
-    grid = {"C": numpy.array([.1, .2, .5, 1., 2., 5., 10., 20., 50.]),
-            "l1_ratio": numpy.array([.1, .5, .9])}
-    model = LogisticRegression(solver="saga", penalty="elasticnet")
-    search = GridSearchCV(model, grid, n_jobs=-1)
-    search.fit(D_dev, y_dev)
+    # Tune C and regularization for the logistic regression classifier
+    x = numpy.concatenate([D_train.toarray(), D_dev.toarray()])
+    y = numpy.concatenate([y_train, y_dev])
+    fold = numpy.concatenate(
+        [
+            numpy.full(D_train.shape[1], -1),
+            numpy.full(D_dev.shape[1], 0)
+        ]
+    )
+    cv = PredefinedSplit(fold)
+    grid = {"C": [.001, .01, .1, .2, .5, 1., 2., 5., 10., 20., 50., 100.],
+            "penalty": ["l1", "l2"]}
+    model = LogisticRegression(solver="saga")
+    search = GridSearchCV(model, grid, cv=cv, n_jobs=-1)
+    search.fit(x, y)
+    c = search.best_params_['C']
+    penalty = search.best_params_['penalty']
     print(search.best_params_)
+    # Train the logistic regression classifier
+    clf1 = LogisticRegression(solver="saga", C=c, penalty=penalty)
+    clf1.fit(D_train, y_train)
     # Evaluate
     y_pred = clf1.predict(D_test)
     acc1 = accuracy_score(y_test, y_pred)
