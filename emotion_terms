@@ -1,0 +1,13 @@
+def identify_emotion_terms(sentence):
+    emotion_terms = []
+    count = 0
+    tokens = parse_tokens(sentence)
+    for token in tokens:
+        synsets = swn.senti_synsets(token)
+        for synset in synsets:
+            if synset.pos_score() > 0.5 or synset.neg_score() > 0.5:
+                emotion_terms.append(token)
+                count += 1
+                break
+    print(emotion_terms)
+    return emotion_terms, count
