@@ -1,12 +1,17 @@
 # final-project
 
-This project counts word occurrences in my field notes. The field notes were taken at NYC Mandarin/ English meetups, where Mandarin learners come to practice with native speakers. The goals of this project are 1) to explore gender differences in second language use, including word frequency, code-switching, ratio of target language use, and sentiment, and 2) to build a computational model using these hypotheses as features to predict the gender of the speaker.
+This project uses transcribed text data and machine learning models to predict the gender of a second language speaker. The text data are the field notes taken at NYC Mandarin/ English meetups, where Mandarin learners come to practice with native speakers. The goals of this project are 1) to explore gender differences in second language use, including word frequency, code-switching, ratio of target language use, and sentiment, and 2) to build a computational model using these hypotheses as features to predict the gender of the speaker.
 
 Updates:
 
+9/17/2023
+1) None of the features seem to be significant predictors of gender.
+2) I'd like to modify the current features and hopefully add more features to improve the model.
+3) Fine-tune the parameters and evaluate the model.
+
 5/9/2023
-1) Used key words, code-switching, target language use, and polarity scores as features to predict the gender of a speaker.
-2) Used `DictVectorizor`, `CountVectorizor` and `TF-IDF` to extract features and compare the restuls with different models.
+1) Used keywords, code-switching, target language use, and polarity scores as features to predict the gender of a speaker.
+2) Used `DictVectorizor`, `CountVectorizor` and `TF-IDF` to extract features and compare the results with different models.
 
 12/15/2022
 1) Used `match.group` to extract gender and direct quote
