@@ -1,0 +1,245 @@
+
+import re
+import glob
+import string
+from typing import Dict, List
+
+import jieba
+import numpy
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nrclex import NRCLex
+
+import torch
+import torchtext
+import torch.nn as nn
+import torch.optim as optim
+import torchvision
+from torchvision import transforms
+# from torchtext.data import Field, TabularDataset, BucketIterator
+
+# Import sklearn
+from sklearn.dummy import DummyClassifier
+from sklearn.feature_extraction import DictVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split, cross_val_score, GridSearchCV, PredefinedSplit
+from sklearn.metrics import accuracy_score
+from sklearn.naive_bayes import BernoulliNB
+from sklearn.ensemble import VotingClassifier
+
+
+def extract_features(sentence: str):
+    features: Dict[str, float] = {}
+    tokens = parse_tokens(sentence)
+    gen_dist_words = frozenset([
+        # male words
+        "people", "get", "chinese", "like", "get", "right", "oh"
+        # female words
+        "我", "是", "有", "在", "人", "know", "china"])
+    male_words = frozenset(["people", "get", "chinese", "like", "get", "right", "oh"])
+    female_words = frozenset(["我", "是", "有", "在", "人", "know", "china"])
+    sid = SentimentIntensityAnalyzer()
+    # Feature 1: gender-distinguishing words
+    total_mw = 0
+    total_fw = 0
+    for word in male_words:
+        mw_count = tokens.count(word)
+        total_mw += mw_count
+    for word in female_words:
+        fw_count = tokens.count(word)
+        total_fw += fw_count
+    features["male words"] = total_mw
+    features["female words"] = total_fw
+    # Feature 2: code-switching
+    cs = count_code_switching(sentence)
+    features["codeswitch"] = cs
+    # Feature 3: target language use
+    target_lang = target_lang_use(sentence)
+    features["TL"] = target_lang
+    # Feature 4: polarity score
+    p_score = sid.polarity_scores(sentence)
+    features["positive"] = p_score["compound"]
+    # Feature 5: emotion score
+    emo_score = 0
+    lex = NRCLex(sentence)
+    emotion_scores = lex.raw_emotion_scores
+    for score in emotion_scores.values():
+        emo_score += score
+    features["emotions"] = emo_score
+    return features
+
+
+def parse_tokens(quote: string) -> List:
+    """This function parses English and Chinese tokens,
+    and returns a list of parsed tokens.
+    """
+    parsed_quotes = []
+    punc = string.punctuation + "’…-。...-，“”？"
+    tokens = nltk.word_tokenize(quote)
+    # Parse Chinese words
+    for token in tokens:
+        parsed_tokens = [word for word in jieba.lcut(token) if word not in punc]
+        parsed_quotes.extend(parsed_tokens)
+    return parsed_quotes
+
+
+def count_code_switching(sentence):
+    tokens = nltk.word_tokenize(sentence)
+    no_punc = [token for token in tokens
+               if token not in string.punctuation + "’…-。...-，“”？"]
+    code_switch_count = 0
+    for i in range(len(no_punc) - 1):
+        (w1, w2) = (no_punc[i], no_punc[i + 1])
+        if w1.isascii() and not w2.isascii():
+            code_switch_count += 1
+        elif not w1.isascii() and w2.isascii():
+            code_switch_count += 1
+    return code_switch_count
+
+
+def target_lang_use(sentence: str):
+    tokens = parse_tokens(sentence)
+    no_punc = [token for token in tokens
+               if token not in string.punctuation + "’…-。...-，“”？"]
+    en = 0
+    zh = 0
+    for token in no_punc:
+        if token.isascii():
+            en += 1
+        else:
+            zh += 1
+    return zh / (zh + en)
+
+
+def print_misclassified(model: str, y_test: List, y_pred: List, sentences: List):
+    """THis function print misclassified sentences to a csv file."""
+    with open("misclassified.csv", "a") as sink:
+        misclassified_indices = [i for i in range(len(y_test)) if y_test[i] != y_pred[i]]
+        print(f"{model}Misclassified sentences:", file=sink)
+        for i in misclassified_indices:
+            print(y_test[i], y_pred[i], sentences[i], file=sink)
+
+
+# Logistic regression(in progress)
+class Classifier(nn.Module):
+    # define all the layers
+    def __init__(self, n_features):
+        # constructor
+        super(Classifier, self).__init__()
+        # fc: fully connected / check nn.Linear to see if it includes bias by default
+        self.fc = nn.Linear(n_features, 1)
+
+    def forward(self, features):
+        return nn.Sigmoid(self.fc(features))
+
+
+def main():
+
+    """This function takes a corpus and prints:
+    (a) word counts and (b) word counts by gender.
+    """
+    male_names = frozenset(['N', 'CG', 'Nick', 'Me', 'R', 'Rick', 'Mark', 'Joe', 'Me', 'Ben', 'Ted',
+                            'Ronny', 'Gary', 'Bob', 'B', 'Brian', 'Wenchao', 'David', 'Scotty', 'Hal',
+                            'Victor', 'Fernando', 'Horton', 'Tsung-han', 'Oshi', 'Alex', 'Kevin',
+                            'Abram', 'shawn', 'TA', 'Ch', 'PB', 'Scotty', 'Bingbing'])
+    female_names = frozenset(['Ashley', 'NC', 'Ella', 'Yu-tse', 'Mizu', 'MZ', 'GG', 'A'])
+    male_sent = []
+    female_sent = []
+    # Create a regular expression for direct quotes
+    pattern = r"(^.+): (.+)"
+    # Read all files and add them to all_tokens
+    files = glob.glob("*.txt", recursive=True)
+    for file in files:
+        with open(file, "r") as source:
+            for line in source:
+                match = re.match(pattern, line)
+                if match:
+                    name, quote = match.group(1), match.group(2)
+                    if name in male_names:
+                        male_sent.append(quote)
+                    elif name in female_names:
+                        female_sent.append(quote)
+
+    # Prepare the data
+    sentences = male_sent + female_sent  # List of sentences
+    print(f"There are {len(male_sent)} male sentences and {len(female_sent)} female sentences.")
+    print(f"There are {len(sentences)} sentences in total.")
+    # List of corresponding labels (male or female)
+    labels = ["male" for _ in male_sent] + ["female" for _ in female_sent]
+
+    # Extract features: DictVectorizer
+    feature_dict = [extract_features(sentence) for sentence in sentences]
+    print(feature_dict)
+    vectorizer = DictVectorizer()
+    D = vectorizer.fit_transform(feature_dict)
+    print(D[0])
+    print(f"Total data size: {D.size}")
+    # Split the data (train 0.8, test 0.1, dev 0.1)
+    seed = 11
+    D_train, D_other, y_train, y_other = train_test_split(
+        D, labels, test_size=.2, random_state=seed)
+    D_test, D_dev, y_test, y_dev = train_test_split(
+        D_other, y_other, test_size=.5, random_state=seed)
+    print(f"train size: {D_train.size}, dev size: "
+          f"{D_dev.size}, test size: {D_test.size}")
+
+    # Train the dummy classifier (baseline)
+    clf0 = DummyClassifier()
+    clf0.fit(D_train, y_train)
+    # Evaluate
+    y_pred = clf0.predict(D_test)
+    acc0 = accuracy_score(y_test, y_pred)
+    print(f"Testing baseline accuracy:\t{acc0:.4f}")
+    print_misclassified("Dummy classifier", y_test, y_pred, sentences)
+
+    # Tune C and regularization for the logistic regression classifier
+    x = numpy.concatenate([D_train.toarray(), D_dev.toarray()])
+    y = numpy.concatenate([y_train, y_dev])
+    fold = numpy.concatenate(
+        [
+            numpy.full(D_train.shape[1], -1),
+            numpy.full(D_dev.shape[1], 0)
+        ]
+    )
+    cv = PredefinedSplit(fold)
+    grid = {"C": [.001, .01, .1, .2, .5, 1., 2., 5., 10., 20., 50., 100.],
+            "penalty": ["l1", "l2"]}
+    model = LogisticRegression(solver="saga")
+    search = GridSearchCV(model, grid, cv=cv, n_jobs=-1)
+    search.fit(x, y)
+    c = search.best_params_['C']
+    penalty = search.best_params_['penalty']
+    print(search.best_params_)
+    # Train the logistic regression classifier
+    clf1 = LogisticRegression(solver="saga", C=c, penalty=penalty)
+    clf1.fit(D_train, y_train)
+    # Evaluate
+    y_pred = clf1.predict(D_test)
+    acc1 = accuracy_score(y_test, y_pred)
+    print(f"Testing logistic regression accuracy:\t{acc1:.4f}")
+    print_misclassified("Logistic regression", y_test, y_pred, sentences)
+
+    # Train the naive Bayes classifier
+    clf2 = BernoulliNB(alpha=1)
+    clf2.fit(D_train, y_train)
+    # Evaluate
+    y_pred = clf2.predict(D_test)
+    acc2 = accuracy_score(y_test, y_pred)
+    print(f"Testing Naive Bayes accuracy:\t{acc2:.4f}")
+    print_misclassified("Naive Bayes", y_test, y_pred, sentences)
+
+    # voting classifier
+    eclf = VotingClassifier(estimators=[
+        ('Dummy classifier', clf0),
+        ('Logistic regression classifier', clf1),
+        ('Naive Bayes classifier', clf2)],
+        voting="hard")
+    eclf = eclf.fit(D_train, y_train)
+    for classifier, label in zip([clf0, clf1, clf2, eclf],
+                                ["Dummy", "Logistic Regression", "Naive Bayes", "Ensamble"]):
+        scores = cross_val_score(classifier, D_test, y_test, scoring="accuracy", cv=10)
+        print("Accuracy: %0.4f (+/- %0.2f) [%s]" % (scores.mean(), scores.std(), label))
+
+
+if __name__ == '__main__':
+    main()
